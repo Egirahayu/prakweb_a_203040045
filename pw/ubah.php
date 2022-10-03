@@ -33,14 +33,9 @@ if (isset($_POST['ubah'])) {
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
     <!-- materialize icons -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <!-- shortcut icon -->
-    <link rel="shortcut icon" href="../assets/img/logo/ER.png">
+    <!-- css lokal -->
+    <link rel="stylesheet" href="style.css">
     <title>Ubah Data MC Anime</title>
-    <style>
-        body {
-            background-image: url(image/unsplash.jpg);
-        }
-    </style>
 </head>
 
 <body>

@@ -24,17 +24,9 @@ if (isset($_POST["cari"])) {
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
   <!-- materialize icons -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <!-- icon medsos -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
   <!-- css lokal -->
-  <link rel="stylesheet" href="css/style.css">
-  <!-- shortcut icon -->
+  <link rel="stylesheet" href="style.css">
   <title>Buku Komik</title>
-  <style>
-    body {
-      background-image: url(image/unsplash.jpg);
-    }
-  </style>
 </head>
 
 <body>

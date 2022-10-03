@@ -30,14 +30,9 @@ if (isset($_POST['tambah'])) {
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
     <!-- materialize icon -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <!-- shortcut icon -->
-    <link rel="shortcut icon" href="../assets/img/logo/ER.png">
+    <!-- css lokal -->
+    <link rel="stylesheet" href="style.css">
     <title>Tambah Data Buku Komik</title>
-    <style>
-        body {
-            background-image: url(image/unsplash.jpg);
-        }
-    </style>
 </head>
 
 <body>
